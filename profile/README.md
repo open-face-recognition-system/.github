@@ -4,9 +4,15 @@ Vision takes classroom attendance with face recognition. Students sign up in the
 
 It started as my undergraduate final project (TCC) at UDESC in 2020 and was brought back in 2026 as a portfolio piece: dependencies updated, security holes closed, everything containerized and self-hosted.
 
-| Web panel | | Android app | |
-|---|---|---|---|
-| <img src="assets/web-attendance.png" width="420" alt="Attendance list of a class"> | <img src="assets/web-subject.png" width="420" alt="Subject with enrolled students"> | <img src="assets/mobile-photos.png" width="180" alt="Student face photos"> | <img src="assets/mobile-classes.png" width="180" alt="Teacher classes"> |
+<img src="assets/web-attendance.png" alt="Attendance list of a class in the web panel">
+
+<img src="assets/web-subject.png" alt="Subject with enrolled students in the web panel">
+
+<p>
+  <img src="assets/mobile-photos.png" width="260" alt="Student face photos in the Android app">
+  &nbsp;
+  <img src="assets/mobile-sign-in.png" width="260" alt="Sign in screen of the Android app">
+</p>
 
 ## How it fits together
 
